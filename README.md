@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Claude Code Game Studios</h1>
+  <h1 align="center">AI Harnessed - Game Studios (CCGS fork) </h1>
   <p align="center">
     Turn a single Claude Code session into a full game development studio.
     <br />
